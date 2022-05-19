@@ -1,0 +1,1 @@
+Project: **Codecademy Store**, following tasks from Codecademy.
